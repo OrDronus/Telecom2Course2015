@@ -1,0 +1,3 @@
+hostname pop.rambler.ru
+port 995
+ssl True

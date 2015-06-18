@@ -1,0 +1,3 @@
+def_root D:/Archive
+anon_root C:/
+port 21
